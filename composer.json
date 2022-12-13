@@ -1,0 +1,19 @@
+{
+    "name": "vvtiger/workday",
+    "description": "Get working days in China",
+    "type": "library",
+	"license":"mit",
+    "autoload": {
+        "psr-4": {
+            "vvtiger\\": "src/vvtiger"
+        }
+    },
+    "authors": [
+        {
+            "name": "vvtiger",
+            "email": "admin@vvtiger.com"
+        }
+    ],
+    "minimum-stability":"dev",
+    "require": {}
+}
